@@ -51,3 +51,16 @@ ia - Level 3
 # FACTORY
 Ligne de production
 ---
+
+# now ()
+Et demain ?
+
+---
+
+# QA
+
+---
+
+# Merci 
+
+---
