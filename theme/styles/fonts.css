@@ -1,0 +1,37 @@
+/* Avenir Pro (Linotype) — local faces; falls back to Avenir / Avenir Next on macOS */
+@font-face {
+  font-family: 'Avenir Pro';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Avenir Pro'),
+    local('Avenir Pro Book'),
+    local('Avenir-Roman'),
+    local('Avenir Roman'),
+    local('Avenir Next Regular'),
+    local('Avenir');
+}
+
+@font-face {
+  font-family: 'Avenir Pro';
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local('Avenir Pro Medium'),
+    local('Avenir-Medium'),
+    local('Avenir Medium'),
+    local('Avenir Next Medium');
+}
+
+@font-face {
+  font-family: 'Avenir Pro';
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local('Avenir Pro Bold'),
+    local('Avenir-Heavy'),
+    local('Avenir Heavy'),
+    local('Avenir Next Bold'),
+    local('Avenir-Black'),
+    local('Avenir Black');
+}
