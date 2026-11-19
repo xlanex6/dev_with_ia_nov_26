@@ -58,9 +58,9 @@ Et demain ?
 ---
 
 # QA
-
+rien compris ?
 ---
 
-# Merci 
+# Merci
 
 ---
